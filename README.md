@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=footer&text=Team's%20Personal%20Accounts&fontSize=50&fontcolor=000000)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=footer&text=Team's%20Personal%20Accounts&fontSize=50)
 
-# Team's Personal Accounts
 
 ### Yousung's github account
 
