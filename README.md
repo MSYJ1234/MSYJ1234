@@ -1,4 +1,4 @@
-# Team_Project
+# Team's personal Accounts
 
 ### Yousung's github account
 
@@ -11,3 +11,6 @@
 ### SangIm's github account
 
 * https://github.com/Apples1243
+
+### Min's github account
+
