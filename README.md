@@ -1,4 +1,4 @@
-# Team's personal Accounts
+# Team's Personal Accounts
 
 ### Yousung's github account
 
