@@ -1,1 +1,0 @@
-print('git 연습 겸 팀 github에 올려보기 테스트')
