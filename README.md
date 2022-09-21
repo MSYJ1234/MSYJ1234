@@ -1,16 +1,13 @@
-### Hi there 👋
+# Team_Project
 
-<!--
-**MSYJ1234/MSYJ1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Yousung's github account
 
-Here are some ideas to get you started:
+* https://github.com/yousung1020
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### JeongGyu's github account
+
+* https://github.com/JeongGyul
+
+### SangIm's github account
+
+* https://github.com/Apples1243
