@@ -3,7 +3,7 @@
 
 ### Min's github account
 
-* https://github.com/
+* https://github.com/parkparkminmin
 
 ### SangIm's github account
 
